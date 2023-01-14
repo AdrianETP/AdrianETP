@@ -7,6 +7,7 @@
 - Web Developer 
 - Neovim Conoseur 
  
+## Languages I Know
 ![image](https://user-images.githubusercontent.com/101372036/212457741-9f0ee472-81bc-4b7f-aa6c-e97d6e105a82.png)
 
 
