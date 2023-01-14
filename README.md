@@ -6,3 +6,4 @@
 - Sophmore computer science student
 - Web Developer 
 - Neovim Conoseur 
+![Adrian Treviño (1)](https://user-images.githubusercontent.com/101372036/212457629-6a0b3930-7722-4d35-b09f-6b5b72a84655.gif)
